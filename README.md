@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Untitled%20design.png](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Professional%20LinkedIn%20Banner.png))
+![logo](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Professional%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate Data Scientist from UET Lahore</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">

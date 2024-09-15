@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mrahmadsabir@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing)]([https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing))
+- 📄 Know about my experiences ((https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing))
 
 - ⚡ Fun fact **Anything.**
 

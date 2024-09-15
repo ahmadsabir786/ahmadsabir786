@@ -1,6 +1,6 @@
 ![logo](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Data Analyst from UET Lahore</h3>
+<h3 align="center">A passionate Data Scientist from UET Lahore</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsabir786&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsabir786" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mrahmadsabir@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view](https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing)]([https://drive.google.com/file/d/15hx7r7e2TvLCbeWQzRkUsgPfhhuLQLfM/view](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing))
 
 - ⚡ Fun fact **Anything.**
 

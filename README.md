@@ -1,4 +1,4 @@
-![Professional LinkedIn Banner](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Professional%20LinkedIn%20Banner.png)
+![Professional LinkedIn Banner](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/ok.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Aspiring AI Professional specializing in Computer Vision</h3>

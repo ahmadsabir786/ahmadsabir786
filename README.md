@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinahilJaved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ahmadsabir786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 👯 **Looking to Collaborate On:** Computer Vision projects like object detection, image classification, and facial recognition.  
 - 🤝 **Looking for Help With:** Optimizing machine learning models and advanced data preprocessing techniques.  
 - 📫 **How to Reach Me:** [mrahmadsabir@gmail.com](mailto:mrahmadsabir@gmail.com)  
-- 📄 **Know My Experiences:** [My Resume](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing)  
+- 📄 **Know My Experiences:** [My Resume](https://drive.google.com/file/d/1WxFEllSZhFlZoGWba88tJe6QE1UdlGrv/view?usp=drive_link)  
 - ⚡ **Fun Fact:** I am equally passionate about technology and content creation!  
 
 ---

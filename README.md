@@ -1,29 +1,73 @@
-![logo](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Professional%20LinkedIn%20Banner.png))
+![Professional LinkedIn Banner](https://github.com/ahmadsabir786/ahmadsabir786/blob/main/Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Data Scientist from UET Lahore</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsabir786&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsabir786" /> </p>
+<h3 align="center">Aspiring AI Professional specializing in Computer Vision</h3>
 
-- 🔭 I’m currently working on [Data analyst portfolio project Pizza Sales](https://www.linkedin.com/posts/ahmad-sabir-analyst_dataanalysis-dataanalyst-project-activity-7205549310782922752-PBg5?utm_source=share&utm_medium=member_desktop)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on [Excel Project on Sufi Store](https://www.linkedin.com/posts/ahmad-sabir-analyst_dataanalytics-python-dataanalyst-activity-7168592067064020992-mQo1?utm_source=share&utm_medium=member_desktop)
-
-- 🤝 I’m looking for help with [Data Visualization in Python](https://www.linkedin.com/posts/ahmad-sabir-analyst_dataanalytics-python-dataanalyst-activity-7168196741060542465-X4q1?utm_source=share&utm_medium=member_desktop)
-
-- 📫 How to reach me **mrahmadsabir@gmail.com**
-
-- 📄 Know about my experiences ((https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing))
-
-- ⚡ Fun fact **Anything.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-sabir-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-sabir-analyst" height="30" width="40" /></a>
-<a href="https://fb.com/ahmad sabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad sabir" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad_sabir12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_sabir12" height="30" width="40" /></a>
+<p align="center">
+  <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinahilJaved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+---
+
+### 🚀 About Me:
+- 🔭 **Currently Working On:** Building intelligent visual recognition systems.  
+- 🌱 **Currently Learning:** Deep Learning, Neural Networks, and Image Processing.  
+- 👯 **Looking to Collaborate On:** Computer Vision projects like object detection, image classification, and facial recognition.  
+- 🤝 **Looking for Help With:** Optimizing machine learning models and advanced data preprocessing techniques.  
+- 📫 **How to Reach Me:** [mrahmadsabir@gmail.com](mailto:mrahmadsabir@gmail.com)  
+- 📄 **Know My Experiences:** [My Resume](https://drive.google.com/file/d/1-uUcouE_v_T-YyDXy4Ko6k1jaKPx7cdX/view?usp=sharing)  
+- ⚡ **Fun Fact:** I am equally passionate about technology and content creation!  
+
+---
+
+### 🌐 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmad-sabir-analyst/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ahmad_sabir12" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a> 
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsabir786&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsabir786&layout=compact&theme=radical" alt="Top Languages" />
+</p>
